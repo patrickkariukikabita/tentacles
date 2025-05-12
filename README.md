@@ -1,4 +1,3 @@
-# tentacles
 # Tentacles
 
 Beautiful, animated tentacles created with **HTML**, **CSS**, and **JavaScript**. These tentacles gracefully follow your mouse cursor and display autonomous, lifelike movement when the cursor is not present.
